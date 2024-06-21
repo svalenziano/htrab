@@ -21,7 +21,7 @@ Non-latin languages are supported: [[안녕하세요]]; so are accents/diacritic
 
 Dashes and underscores in file names are supported, and may be omitted in the bracket link syntax. As an example, the `your-first-note.md` file can be linked to with [[your first note]] or [[your-first-note]], or even [[yOuR-FiRsT Note]].
 
-In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: [[there is no note that matches this link]].
+In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: [[there is no note that matches this link ☹️]].
 
 Alternatively, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a Markdown link to the note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link (without the little arrow).
 
@@ -91,6 +91,10 @@ If you'd like to quote other people, consider using quote blocks:
 And of course, images look great:
 
 <img src="{{ site.baseurl }}/assets/image.jpg"/>
+
+Do obsidian-style image links work?  Nope ☹️
+![[image.jpg]]
+![[/assets/image.jpg]]
 
 You can also ==highlight some content== by wrapping it with `==`.
 
