@@ -2,6 +2,10 @@
 title: A note about cats
 ---
 
+<span class='sv'>If this note is actually created</span>, something has gone terribly wrong, because the note is located in a `_drafts` folder: [[i_hope_this_is_ignored]] [[Ignore me!]] ...
+
+This note should be created though: [[consistency]].
+
 This is a second note with a poem with cats. 
 
 Here's a link to a note that explains why it's important to [[move your body every day]].

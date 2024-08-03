@@ -92,9 +92,16 @@ And of course, images look great:
 
 <img src="{{ site.baseurl }}/assets/image.jpg"/>
 
-Do obsidian-style image links work?  Nope ☹️
+<span class='sv'>
+Do obsidian-style image links work?  Nope ☹️ 
 ![[image.jpg]]
 ![[/assets/image.jpg]]
+</span>
+
+Oh! but this works: 
+`![My alt text](/assets/image.jpg)`
+
+![My alt text](/assets/image.jpg)
 
 You can also ==highlight some content== by wrapping it with `==`.
 
