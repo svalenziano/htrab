@@ -2,7 +2,7 @@
 title: A note about cats
 ---
 
-<span class='sv'>If this note is actually created</span>, something has gone terribly wrong, because the note is located in a `_drafts` folder: [[i_hope_this_is_ignored]] [[Ignore me!]] ...
+<span class='sv'>If this note is actually created</span>, something has gone terribly wrong, because the note is located in a `_drafts` folder: [[i_hope_this_is_ignored]] ...
 
 This note should be created though: [[consistency]].
 
